@@ -1,2 +1,2 @@
-# GameOfLife
-Interactive Game of Life in Java
+# NxN Tic-Tac-Toe
+Scalable Tic-Tac-Toe in Java.
